@@ -1,2 +1,2 @@
 # Analog-clock
-Digital Clock with dark and light theme
+Analog Clock with dark and light theme
