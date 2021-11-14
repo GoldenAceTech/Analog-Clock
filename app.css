@@ -26,6 +26,7 @@ body {
 }
 
 .toggle {
+    cursor: pointer;
     height: 15px;
     width: 50px;
     background-color: #A9A9A9;
