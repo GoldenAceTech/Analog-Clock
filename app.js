@@ -7,6 +7,7 @@ const numbers = document.querySelectorAll('.number'),
  hr = document.querySelector('.hr'),
  body = document.body;
 
+getTime()
 let time = setInterval(getTime,1000);
 
 clock.style.height = `${clock.clientWidth}px`
